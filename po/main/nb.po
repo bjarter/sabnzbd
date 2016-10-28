@@ -5050,7 +5050,7 @@ msgstr "Kunne ikke koble til (%s)"
 #~ msgstr "Pause 24 timer"
 
 #~ msgid "Left"
-#~ msgstr "Venstre"
+#~ msgstr "igjen"
 
 #~ msgid "Hour:Min"
 #~ msgstr "Time:Minutt"
